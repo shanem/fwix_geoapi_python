@@ -18,7 +18,6 @@ setup(
     description = "The Fwix GeoAPI Python SDK",
     author = 'John Cwikla',
     packages = find_packages(),
-    namespace_packages = ['fwix_geo_api', 'sample', 'test'],
     include_package_data = True,
 )
 
